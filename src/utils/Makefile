@@ -2,12 +2,11 @@
 # UTILS library.
 #
 
-L_ARCH   = $(ARCH)
 LIB_NAME = d-$(L_ARCH).a
 
 OPTFLAGS = -O
 
-CFLAGS    = $(OPTFLAGS) -D$(ARCH)
+CFLAGS    = $(OPTFLAGS)
 FFLAGS    = $(OPTFLAGS)
 CPPFLAGS  = -D$(ARCH)
 
