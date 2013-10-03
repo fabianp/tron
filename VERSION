@@ -1,0 +1,63 @@
+
+
+           VERSIONS
+          
+Version 1.0
+
+  Released June 1999. This code produced the results in the paper
+
+  Chih-Jen Lin and Jorge J. More',
+  Newton's method for large bound-constrained optimization problems,
+  SIAM Journal on Optimization 9 (1999) 1100-1127.
+   
+  http://epubs.siam.org/sam-bin/dbq/article/34507
+
+Version 1.1
+
+  Released March 2000.
+
+  dcauchy.f 
+
+    Eliminated the nsteps variable.
+    Made sure that variable alphas was initialized.
+    Corrected the calculation of the minimal and maximal breakpoints
+    by replacing g with wa in the call to breakpt.
+
+  dspcg.f
+
+    Added more documentation to nv variable and eliminated
+    the nnz = max(nnz,1) statement.
+
+  dsphesd.f - Corrected documentation for maxgrp. Noted by Alan Miller.
+
+  dtrpcg.f
+
+    Corrected documentation for l, lidag, lcol_ptr and lrow_ind
+    Noted by Alan Miller.
+
+Version 1.2
+
+  Released March 2001.
+
+  dsel2.f - Length of x is now set to *.
+
+  The blas routines included with this release were also updated,
+  but in all cases, usage of machine-specific blas is recommended.
+
+  The main README file now specifically asks that the ARCH environment
+  variable be set, while the README file in the UTILS directory
+  provides system-dependent information.
+
+  The timing routines in the UTILS directory have also been updated.
+
+=====================================================================
+
+Bugs
+
+  No detailed documentation
+
+  There is no option to use an ordering to reduce fill in
+  the incomplete Cholesky factorization
+
+  Parameter itermax in subroutine tron is not used.
+

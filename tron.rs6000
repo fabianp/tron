@@ -1,0 +1,644 @@
+ Problem DEPT_1
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.90
+ Number of free variables at x(start)                   0
+ Number of active variables at x(start)              2500
+ Number of binding variables at x(start)             2500
+
+ Number of free variables at x(final)                2500
+ Number of active variables at x(final)                 0
+ Number of binding variables at x(final)                0
+ Number of function evaluations                        17
+ Number of gradient evaluations                        17
+ Number of Hessian evaluations                         17
+ Number of Hessian-vector evaluations                 153
+ Number of conjugate gradient iterations               42
+
+ Function value at final iterate           -.17527181D-01
+ Projected gradient at final iterate             .792D-06
+
+ Total execution time                                1.44
+ Percentage in function evaluations                  6.31
+ Percentage in Hessian evaluations                  28.18
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DEPT_2
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.90
+ Number of free variables at x(start)                   0
+ Number of active variables at x(start)              2500
+ Number of binding variables at x(start)             1014
+
+ Number of free variables at x(final)                1750
+ Number of active variables at x(final)               750
+ Number of binding variables at x(final)              750
+ Number of function evaluations                        21
+ Number of gradient evaluations                        21
+ Number of Hessian evaluations                         21
+ Number of Hessian-vector evaluations                 189
+ Number of conjugate gradient iterations               32
+
+ Function value at final iterate           -.41766055D+00
+ Projected gradient at final iterate             .374D-06
+
+ Total execution time                                1.44
+ Percentage in function evaluations                  7.48
+ Percentage in Hessian evaluations                  34.73
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DEPT_3
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.90
+ Number of free variables at x(start)                   0
+ Number of active variables at x(start)              2500
+ Number of binding variables at x(start)             1316
+
+ Number of free variables at x(final)                 886
+ Number of active variables at x(final)              1614
+ Number of binding variables at x(final)             1614
+ Number of function evaluations                        14
+ Number of gradient evaluations                        14
+ Number of Hessian evaluations                         14
+ Number of Hessian-vector evaluations                 126
+ Number of conjugate gradient iterations               16
+
+ Function value at final iterate           -.12028157D+01
+ Projected gradient at final iterate             .526D-07
+
+ Total execution time                                 .72
+ Percentage in function evaluations                  9.30
+ Percentage in Hessian evaluations                  45.84
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DPJB_1
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.90
+ Number of free variables at x(start)                1250
+ Number of active variables at x(start)              1250
+ Number of binding variables at x(start)              266
+
+ Number of free variables at x(final)                1699
+ Number of active variables at x(final)               801
+ Number of binding variables at x(final)              801
+ Number of function evaluations                        21
+ Number of gradient evaluations                        21
+ Number of Hessian evaluations                         21
+ Number of Hessian-vector evaluations                 189
+ Number of conjugate gradient iterations               29
+
+ Function value at final iterate           -.17937784D+00
+ Projected gradient at final iterate             .121D-04
+
+ Total execution time                                1.62
+ Percentage in function evaluations                  6.54
+ Percentage in Hessian evaluations                  36.26
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DPJB_2
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.90
+ Number of free variables at x(start)                1250
+ Number of active variables at x(start)              1250
+ Number of binding variables at x(start)             1045
+
+ Number of free variables at x(final)                1513
+ Number of active variables at x(final)               987
+ Number of binding variables at x(final)              987
+ Number of function evaluations                        13
+ Number of gradient evaluations                        13
+ Number of Hessian evaluations                         13
+ Number of Hessian-vector evaluations                 117
+ Number of conjugate gradient iterations               16
+
+ Function value at final iterate           -.41153220D+01
+ Projected gradient at final iterate             .349D-05
+
+ Total execution time                                 .95
+ Percentage in function evaluations                  6.67
+ Percentage in Hessian evaluations                  37.88
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DPJB_3
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.90
+ Number of free variables at x(start)                1250
+ Number of active variables at x(start)              1250
+ Number of binding variables at x(start)             1135
+
+ Number of free variables at x(final)                1325
+ Number of active variables at x(final)              1175
+ Number of binding variables at x(final)             1175
+ Number of function evaluations                         7
+ Number of gradient evaluations                         7
+ Number of Hessian evaluations                          7
+ Number of Hessian-vector evaluations                  63
+ Number of conjugate gradient iterations               11
+
+ Function value at final iterate           -.20194067D+02
+ Projected gradient at final iterate             .884D-06
+
+ Total execution time                                 .49
+ Percentage in function evaluations                  6.66
+ Percentage in Hessian evaluations                  39.35
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DMSA_A
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.90
+ Number of free variables at x(start)                2500
+ Number of active variables at x(start)                 0
+ Number of binding variables at x(start)                0
+
+ Number of free variables at x(final)                2500
+ Number of active variables at x(final)                 0
+ Number of binding variables at x(final)                0
+ Number of function evaluations                        19
+ Number of gradient evaluations                        15
+ Number of Hessian evaluations                         15
+ Number of Hessian-vector evaluations                 135
+ Number of conjugate gradient iterations               36
+
+ Function value at final iterate            .14210861D+01
+ Projected gradient at final iterate             .123D-06
+
+ Total execution time                                2.91
+ Percentage in function evaluations                  7.65
+ Percentage in Hessian evaluations                  50.27
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DMSA_B
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.90
+ Number of free variables at x(start)                2288
+ Number of active variables at x(start)               212
+ Number of binding variables at x(start)               95
+
+ Number of free variables at x(final)                2416
+ Number of active variables at x(final)                84
+ Number of binding variables at x(final)               78
+ Number of function evaluations                        41
+ Number of gradient evaluations                        25
+ Number of Hessian evaluations                         25
+ Number of Hessian-vector evaluations                 225
+ Number of conjugate gradient iterations               61
+
+ Function value at final iterate            .22886049D+01
+ Projected gradient at final iterate             .195D-05
+
+ Total execution time                                5.48
+ Percentage in function evaluations                  7.66
+ Percentage in Hessian evaluations                  44.93
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DMSA_C
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.90
+ Number of free variables at x(start)                1658
+ Number of active variables at x(start)               842
+ Number of binding variables at x(start)              288
+
+ Number of free variables at x(final)                2120
+ Number of active variables at x(final)               380
+ Number of binding variables at x(final)              321
+ Number of function evaluations                        31
+ Number of gradient evaluations                        22
+ Number of Hessian evaluations                         22
+ Number of Hessian-vector evaluations                 198
+ Number of conjugate gradient iterations               39
+
+ Function value at final iterate            .51613490D+01
+ Projected gradient at final iterate             .803D-06
+
+ Total execution time                                4.02
+ Percentage in function evaluations                  8.56
+ Percentage in Hessian evaluations                  53.89
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DMSO_A
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.92
+ Number of free variables at x(start)                2500
+ Number of active variables at x(start)                 0
+ Number of binding variables at x(start)                0
+
+ Number of free variables at x(final)                2500
+ Number of active variables at x(final)                 0
+ Number of binding variables at x(final)                0
+ Number of function evaluations                         9
+ Number of gradient evaluations                         9
+ Number of Hessian evaluations                          9
+ Number of Hessian-vector evaluations                  81
+ Number of conjugate gradient iterations               30
+
+ Function value at final iterate            .18916403D+01
+ Projected gradient at final iterate             .235D-06
+
+ Total execution time                                1.50
+ Percentage in function evaluations                  6.78
+ Percentage in Hessian evaluations                  52.68
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DMSO_B
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.92
+ Number of free variables at x(start)                1824
+ Number of active variables at x(start)               676
+ Number of binding variables at x(start)              520
+
+ Number of free variables at x(final)                2448
+ Number of active variables at x(final)                52
+ Number of binding variables at x(final)               52
+ Number of function evaluations                        22
+ Number of gradient evaluations                        21
+ Number of Hessian evaluations                         21
+ Number of Hessian-vector evaluations                 189
+ Number of conjugate gradient iterations               37
+
+ Function value at final iterate            .19644809D+01
+ Projected gradient at final iterate             .246D-06
+
+ Total execution time                                3.22
+ Percentage in function evaluations                  7.30
+ Percentage in Hessian evaluations                  55.80
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DMSO_C
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.92
+ Number of free variables at x(start)                1824
+ Number of active variables at x(start)               676
+ Number of binding variables at x(start)              430
+
+ Number of free variables at x(final)                1824
+ Number of active variables at x(final)               676
+ Number of binding variables at x(final)              676
+ Number of function evaluations                        27
+ Number of gradient evaluations                        15
+ Number of Hessian evaluations                         15
+ Number of Hessian-vector evaluations                 135
+ Number of conjugate gradient iterations               42
+
+ Function value at final iterate            .24772566D+01
+ Projected gradient at final iterate             .581D-06
+
+ Total execution time                                2.78
+ Percentage in function evaluations                  7.02
+ Percentage in Hessian evaluations                  44.93
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DODC_A
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.92
+ Number of free variables at x(start)                2500
+ Number of active variables at x(start)                 0
+ Number of binding variables at x(start)                0
+
+ Number of free variables at x(final)                2500
+ Number of active variables at x(final)                 0
+ Number of binding variables at x(final)                0
+ Number of function evaluations                        40
+ Number of gradient evaluations                        28
+ Number of Hessian evaluations                         28
+ Number of Hessian-vector evaluations                 252
+ Number of conjugate gradient iterations               61
+
+ Function value at final iterate           -.11359474D-01
+ Projected gradient at final iterate             .146D-06
+
+ Total execution time                                6.12
+ Percentage in function evaluations                  7.29
+ Percentage in Hessian evaluations                  53.74
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DODC_B
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.92
+ Number of free variables at x(start)                2500
+ Number of active variables at x(start)                 0
+ Number of binding variables at x(start)                0
+
+ Number of free variables at x(final)                2500
+ Number of active variables at x(final)                 0
+ Number of binding variables at x(final)                0
+ Number of function evaluations                        28
+ Number of gradient evaluations                        17
+ Number of Hessian evaluations                         17
+ Number of Hessian-vector evaluations                 153
+ Number of conjugate gradient iterations               48
+
+ Function value at final iterate           -.15654132D-01
+ Projected gradient at final iterate             .156D-06
+
+ Total execution time                                4.04
+ Percentage in function evaluations                  7.35
+ Percentage in Hessian evaluations                  50.79
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DODC_C
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.92
+ Number of free variables at x(start)                2500
+ Number of active variables at x(start)                 0
+ Number of binding variables at x(start)                0
+
+ Number of free variables at x(final)                2500
+ Number of active variables at x(final)                 0
+ Number of binding variables at x(final)                0
+ Number of function evaluations                        77
+ Number of gradient evaluations                        39
+ Number of Hessian evaluations                         39
+ Number of Hessian-vector evaluations                 351
+ Number of conjugate gradient iterations              110
+
+ Function value at final iterate           -.88925053D-02
+ Projected gradient at final iterate             .436D-06
+
+ Total execution time                                9.79
+ Percentage in function evaluations                  7.33
+ Percentage in Hessian evaluations                  45.52
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DSSC_A
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.90
+ Number of free variables at x(start)                2304
+ Number of active variables at x(start)               196
+ Number of binding variables at x(start)               52
+
+ Number of free variables at x(final)                2458
+ Number of active variables at x(final)                42
+ Number of binding variables at x(final)               38
+ Number of function evaluations                        14
+ Number of gradient evaluations                        14
+ Number of Hessian evaluations                         14
+ Number of Hessian-vector evaluations                 126
+ Number of conjugate gradient iterations               25
+
+ Function value at final iterate           -.56075626D+01
+ Projected gradient at final iterate             .108D-04
+
+ Total execution time                                2.66
+ Percentage in function evaluations                 12.04
+ Percentage in Hessian evaluations                  53.26
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DSSC_B
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.90
+ Number of free variables at x(start)                 778
+ Number of active variables at x(start)              1722
+ Number of binding variables at x(start)             1117
+
+ Number of free variables at x(final)                2094
+ Number of active variables at x(final)               406
+ Number of binding variables at x(final)              406
+ Number of function evaluations                        23
+ Number of gradient evaluations                        23
+ Number of Hessian evaluations                         23
+ Number of Hessian-vector evaluations                 207
+ Number of conjugate gradient iterations               32
+
+ Function value at final iterate           -.54933172D+01
+ Projected gradient at final iterate             .177D-05
+
+ Total execution time                                4.04
+ Percentage in function evaluations                 12.79
+ Percentage in Hessian evaluations                  57.72
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DSSC_C
+
+ Number of variables                                 2500
+ Number of coloring groups                              9
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         2.90
+ Number of free variables at x(start)                  50
+ Number of active variables at x(start)              2450
+ Number of binding variables at x(start)             1352
+
+ Number of free variables at x(final)                1480
+ Number of active variables at x(final)              1020
+ Number of binding variables at x(final)             1020
+ Number of function evaluations                        20
+ Number of gradient evaluations                        20
+ Number of Hessian evaluations                         20
+ Number of Hessian-vector evaluations                 180
+ Number of conjugate gradient iterations               21
+
+ Function value at final iterate           -.52846430D+01
+ Projected gradient at final iterate             .254D-05
+
+ Total execution time                                3.30
+ Percentage in function evaluations                 13.20
+ Percentage in Hessian evaluations                  65.59
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DGL1_A
+
+ Number of variables                                 2500
+ Number of coloring groups                              3
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         1.00
+ Number of free variables at x(start)                2500
+ Number of active variables at x(start)                 0
+ Number of binding variables at x(start)                0
+
+ Number of free variables at x(final)                2500
+ Number of active variables at x(final)                 0
+ Number of binding variables at x(final)                0
+ Number of function evaluations                        14
+ Number of gradient evaluations                        13
+ Number of Hessian evaluations                         13
+ Number of Hessian-vector evaluations                  39
+ Number of conjugate gradient iterations               13
+
+ Function value at final iterate           -.84561920D+04
+ Projected gradient at final iterate             .208D-06
+
+ Total execution time                                 .82
+ Percentage in function evaluations                  1.94
+ Percentage in Hessian evaluations                  12.30
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DGL1_B
+
+ Number of variables                                 2500
+ Number of coloring groups                              3
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         1.00
+ Number of free variables at x(start)                2500
+ Number of active variables at x(start)                 0
+ Number of binding variables at x(start)                0
+
+ Number of free variables at x(final)                2500
+ Number of active variables at x(final)                 0
+ Number of binding variables at x(final)                0
+ Number of function evaluations                        14
+ Number of gradient evaluations                        13
+ Number of Hessian evaluations                         13
+ Number of Hessian-vector evaluations                  39
+ Number of conjugate gradient iterations               13
+
+ Function value at final iterate           -.48098804D+05
+ Projected gradient at final iterate             .214D-06
+
+ Total execution time                                 .95
+ Percentage in function evaluations                  1.68
+ Percentage in Hessian evaluations                  10.57
+
+ Exit message     CONVERGENCE: FRTOL TEST SATISFIED                           
+
+ Problem DGL2_A
+
+ Number of variables                                 2500
+ Number of coloring groups                             17
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         5.75
+ Number of free variables at x(start)                2500
+ Number of active variables at x(start)                 0
+ Number of binding variables at x(start)                0
+
+ Number of free variables at x(final)                2500
+ Number of active variables at x(final)                 0
+ Number of binding variables at x(final)                0
+ Number of function evaluations                         8
+ Number of gradient evaluations                         8
+ Number of Hessian evaluations                          8
+ Number of Hessian-vector evaluations                 136
+ Number of conjugate gradient iterations              145
+
+ Function value at final iterate            .16229390D+02
+ Projected gradient at final iterate             .340D-05
+
+ Total execution time                                6.74
+ Percentage in function evaluations                   .48
+ Percentage in Hessian evaluations                  36.36
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DGL2_B
+
+ Number of variables                                 2500
+ Number of coloring groups                             17
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         5.75
+ Number of free variables at x(start)                2500
+ Number of active variables at x(start)                 0
+ Number of binding variables at x(start)                0
+
+ Number of free variables at x(final)                2500
+ Number of active variables at x(final)                 0
+ Number of binding variables at x(final)                0
+ Number of function evaluations                        23
+ Number of gradient evaluations                        13
+ Number of Hessian evaluations                         13
+ Number of Hessian-vector evaluations                 221
+ Number of conjugate gradient iterations              891
+
+ Function value at final iterate            .16228357D+02
+ Projected gradient at final iterate             .567D-05
+
+ Total execution time                               19.18
+ Percentage in function evaluations                   .36
+ Percentage in Hessian evaluations                  22.57
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
+ Problem DGL2_C
+
+ Number of variables                                 2500
+ Number of coloring groups                             17
+ Average number of nonzeros in the strictly  
+ lower triangular part of the Hessian matrix         5.75
+ Number of free variables at x(start)                2500
+ Number of active variables at x(start)                 0
+ Number of binding variables at x(start)                0
+
+ Number of free variables at x(final)                2500
+ Number of active variables at x(final)                 0
+ Number of binding variables at x(final)                0
+ Number of function evaluations                        72
+ Number of gradient evaluations                        32
+ Number of Hessian evaluations                         32
+ Number of Hessian-vector evaluations                 544
+ Number of conjugate gradient iterations             2795
+
+ Function value at final iterate            .16226731D+02
+ Projected gradient at final iterate             .143D-05
+
+ Total execution time                               58.58
+ Percentage in function evaluations                   .34
+ Percentage in Hessian evaluations                  18.71
+
+ Exit message     CONVERGENCE: GTOL TEST SATISFIED                            
+
